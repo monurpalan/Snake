@@ -7,4 +7,6 @@ A simple, classic snake game. Playable with WASD or arrow keys. The snake can pa
 
 Basit, klasik bir yılan oyunudur. WASD ve ok tuşlarıyla oynanır. Duvarlardan geçebilir, kendine çarptığında oyun sıfırlanır.
 
+GIF!
+
 ![Image](https://github.com/user-attachments/assets/4da334a0-3a36-4e71-8715-40cbeda36fbe)
